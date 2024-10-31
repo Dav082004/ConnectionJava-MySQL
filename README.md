@@ -16,6 +16,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu equipo:
 2. **Importa la Base de Datos**:
    - Entra en `http://localhost/phpmyadmin/` desde tu navegador.
    - Crea una nueva base de datos o selecciona una existente donde se importará el archivo.
+   - En este caso se creara una base de datos llamada "inv" para su funcionalidad.
    - Dirígete a la pestaña **Importar** y selecciona el archivo de base de datos que se encuentra en la carpeta `BD` de este proyecto.
    - Ejecuta la importación para cargar las tablas y datos en el servidor MySQL.
 
